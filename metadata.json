@@ -1,0 +1,6 @@
+{
+  "name": "Bybit AI Pro",
+  "description": "AI-powered crypto market analysis application featuring live Bybit public market data, technical indicators, manual grid suggestions, risk guard, and market metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
